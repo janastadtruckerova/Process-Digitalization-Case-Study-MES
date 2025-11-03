@@ -22,6 +22,6 @@ Pre detailné procesné mapy, analýzu AS-IS/TO-BE a špecifikáciu funkčných 
 
 ---
 
-### **Váš analytický prístup:**
+### **Môj analytický prístup:**
 
 > Ako juniorský konzultant by som klientsky orientovaným a systematickým spôsobom prispievala k zberu a štrukturovaniu dát, návrhu a špecifikácii riešení, s cieľom prispieť k merateľným výsledkom a úspešnej implementácii.
